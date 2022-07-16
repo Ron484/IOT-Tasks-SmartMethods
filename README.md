@@ -6,6 +6,7 @@ The first subtask:
 for run the website page:
 Click the page link : 
 https://speech-text-convertor.netlify.app/
+
 then press the "Start" button only once and then start talking.
 
  Converting your speech to text will stop as soon as you stop talking, then if you talk again a new recording will start.
