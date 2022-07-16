@@ -3,6 +3,7 @@ The first task in training smart methods - the Internet of Things (IOT) path:
 
 The first subtask:
 1- A web page that converts speech to Arabic text:
+
 for run the website page:
 
 1-Click the page link : 
