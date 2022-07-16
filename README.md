@@ -4,13 +4,14 @@ The first task in training smart methods - the Internet of Things (IOT) path:
 The first subtask:
 1- A web page that converts speech to Arabic text:
 for run the website page:
-Click the page link : 
+
+1-Click the page link : 
 https://speech-text-convertor.netlify.app/
 
-then press the "Start" button only once and then start talking.
+2-then press the "Start" button only once and then start talking.
 
- Converting your speech to text will stop as soon as you stop talking, then if you talk again a new recording will start.
- This web page works on laptops, mobiles
+Converting your speech to text will stop as soon as you stop talking, then if you talk again a new recording will start.
+This web page works on laptops, mobiles
 
 
  
