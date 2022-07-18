@@ -1,7 +1,7 @@
 # Task1-SmartMethods(IOT)
 The first task in training smart methods - the Internet of Things (IOT) path:
 
-The first subtask:
+#The first subtask:
 1- A web page that converts speech to Arabic text:
 
 for run the website page:
@@ -16,5 +16,5 @@ This web page works on laptops, mobiles
 
 
  
-The second subtask:
+#The second subtask:
 2-Algorithm for running Wasdom ESP32
