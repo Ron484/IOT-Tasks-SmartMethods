@@ -11,7 +11,7 @@ https://speech-text-convertor.netlify.app/
 
 2-then press the "Start" button only once and then start talking.
 
-Converting your speech to text will stop as soon as you stop talking, then if you talk again a new recording will start.
+Converting your speech to Arabic text will stop as soon as you stop talking, then if you talk again a new recording will start.
 This web page works on laptops, mobiles
 
 
