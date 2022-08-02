@@ -2,6 +2,7 @@
 The first task in training smart methods - the Internet of Things (IOT) path:
 
 #The first subtask:
+
 1- A web page that converts speech to Arabic text:
 
 for run the website page:
@@ -16,6 +17,7 @@ This web page works on laptops, mobiles.
 
  
 #The second subtask:
+
 2-Algorithm for running Wasdom ESP32.
 
 
@@ -28,9 +30,9 @@ This web page works on laptops, mobiles.
 
 1-Programming a web page to control the arm using the web serial API:
 
-  We used the web serial library, which will associate the Arduino ID with the html page.
+    We used the web serial library, which will associate the Arduino ID with the html page.
 
-  Press the "connect" button, to connect to the serial port, and when you speak in Arabic and say (left or right) then the robot arm will move.
+    Press the "connect" button, to connect to the serial port, and when you speak in Arabic and say (left or right) then the robot arm will move.
   
 ##The second subtask: 
 
