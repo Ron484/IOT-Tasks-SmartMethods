@@ -24,12 +24,14 @@ This web page works on laptops, mobiles.
 
  In this task, we will use the previous web page task that converts speech to text, in order to convert speech into movement, by linking the page with an Arduino      connected with a servo motor, so that when we say "right", the motor moves 180 degrees and when we say "left" moves to zero degrees.
 
-##The first subtask:
+##The first subtask: 
+
 1-Programming a web page to control the arm using the web serial API:
 
   We used the web serial library, which will associate the Arduino ID with the html page.
 
   Press the "connect" button, to connect to the serial port, and when you speak in Arabic and say (left or right) then the robot arm will move.
   
-##The second subtask:  
+##The second subtask: 
+
 2-Write the Arduino code for the control.
